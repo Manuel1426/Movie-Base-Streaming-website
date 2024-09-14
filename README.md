@@ -12,7 +12,7 @@ Top Rated Movie Section
 TV Series Section
 Trial Section
 Footer Section
-Multipage Movie webite
+Multipage Movie website
 Added Movie Detail Page
 
 Tech Stack
@@ -21,6 +21,9 @@ Frontend
 HTML
 CSS
 Javascript
+
+Install NPM dependencies
+install nmp i bootstrap-icons
 
 Development and Version Control
 Git and GitHub
